@@ -113,9 +113,11 @@ To begin configuring your web server, you will need to run Internet Information 
 <img src="https://github.com/user-attachments/assets/cb7bff16-cb5d-433d-804f-e8e1d0914416" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-From the IIS admin, you will need to register PHP from within IIS (PHP Manager -> C:\PHP\php-cgi.exe). Make sure you stop and restart IIS after you register your PHP to the C drive file. 
+From the IIS admin, you will need to register PHP from within IIS (PHP Manager -> C:\PHP\php-cgi.exe). Make sure you stop and restart IIS after you register your PHP to the C drive. 
 </p>
 <br />
+
+<h2>How to install osTicket</h2>
 
 <p>
 <img src="https://github.com/user-attachments/assets/01906213-972c-4e5f-bc50-fa4d4fc920cf" height="80%" width="80%" alt="Disk Sanitization Steps"/>
